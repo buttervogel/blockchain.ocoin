@@ -1,9 +1,14 @@
 # Facts
 
-Token's name: oken
-Token's symbol: oken.png
-The Token’s Decimal Places: 8
-The Number of Tokens in Circulation: 1.000.000
+Symbol        : OCO
+
+Name          : O Coin
+
+Total supply  : 1.000.000
+
+Decimals      : 8
+
+Owner Account : 0x25854234F52B32492360236De33D845027947E71
 
 
 #contract address
